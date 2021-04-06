@@ -1,0 +1,24 @@
+Principle | Policy Implications | Technical Implications and Considerations 
+Purposeful and performance-driven | Require agencies to design AI where the benefits significantly outweigh the risk | Agencies must assess the risks of designing, implementing and developing AI and ensure that any risks produced from the product can be assessed and managed
+Transparent | Require companies to provide reports on how an AI model has generated insights or decisions | Agencies must incorporate precise and explicit design methods in addition to any information of how they plan to use AI to the public while protecting privacy laws 
+Inclusive & Diverse | Require companies to use a diverse set of training data to minimize bias | Require staff training on diversity equity and inclusion. Provide staff with diversity standards for training data sets
+Privacy | Require companies to allow people to determine how their data should be used | Use opt-in rather than opt-out for data collection options. Default should always be: no data is being collected 
+Explainability | Governments should hold agencies developing AIs accountable for the proper functioning in line with the principles outlined by the government | Companies should be held responsible for implementing, enforcing and monitoring the implementation of guidelines to stay in accordance with government principles and policies
+Regularly Monitored | Governments should build sustainable infrastructure that is capable of continuously assessing  AI systems as they are rapidly changing | Agencies should continuously update their guidelines as AI models change and develop. Companies must continuously test their AI application to ensure they are in line with governmental guidelines and policies
+Safe, secure, and resilient | Governments should enforce regulations for safety standards when agencies deploy AI to prevent and avoid vulnerabilities in its systems rather than reactively responding to it | Agencies should develop security practices that align with government policies and constantly update them as the technology changes
+
+Principle | United States | India’s National Institution for Transforming India (NITI) | European Commission
+Lawful and respectful of our Nation’s values | ✓ | ✓ | | |
+Inclusive & Diverse | | ✓ | ✓ | ✓ |
+Purposeful and perfromance-drive | ✓ | ✓ | | |
+Accurate, reliable and effective | ✓ | ✓| | |
+Safe, secure, and resilient | ✓ | ✓ | ✓ | ✓ |
+Explainability | ✓ | ✓ | | |
+Democratic | | ✓ | ✓ | |
+Respect for Human Rights | | ✓ | ✓ | |
+Regularly Monitored | ✓ | ✓ | | |
+Transparent | ✓ | ✓ | ✓ | ✓ |
+Accountable | ✓ | ✓ | ✓ | ✓ |
+
+
+
